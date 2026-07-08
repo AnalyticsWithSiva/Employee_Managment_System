@@ -1,0 +1,11 @@
+-- USE company;
+
+--  CREATE TABLE employees (
+--     emp_id INT PRIMARY KEY,
+--     emp_name VARCHAR(50) NOT NULL,
+--     department VARCHAR(30),
+--     designation VARCHAR(30),
+--     salary DECIMAL(10,2),
+--     city VARCHAR(30),
+--     joining_date DATE
+-- );
